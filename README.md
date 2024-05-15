@@ -1,9 +1,6 @@
-# A flet-login-page Flet app
+# Flet-Login-Page
+### Modelo de Login usando flet.py
 
-An example of a minimal Flet app.
+[Vídeo de demonstração](https://youtu.be/sNx-db1bmVM?si=br2R3oOweNpH3e1m)
 
-To run the app:
-
-```
-flet run [app_directory]
-```
+![](exemplo-gif.gif)
